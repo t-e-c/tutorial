@@ -1,2 +1,4 @@
 Me gusta la pizza
 Me gusta el rojo
+
+Diego le gusta el arroz con huevo
